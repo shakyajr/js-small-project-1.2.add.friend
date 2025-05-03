@@ -1,0 +1,1 @@
+# js-small-project-1.2.add.friend
